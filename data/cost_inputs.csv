@@ -1,6 +1,7 @@
+
 asset_id,mining_cost,processing_cost,transport_cost,royalties,g_and_a,byproduct_credit,sustaining_capex,conversion_cost,lce_conversion_factor
 1,400,300,150,100,80,0,200,2500,0.15
-2,200,250,100,120,70,0,150,500,1.0
-3,300,300,120,80,60,0,180,500,1.0
+2,900,1200,300,200,150,0,300,0,1.0
+3,350,350,150,100,80,0,200,0,1.0
 4,450,350,180,120,90,0,220,2500,0.15
 5,250,300,120,100,70,0,200,500,1.0

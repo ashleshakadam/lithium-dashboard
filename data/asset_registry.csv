@@ -4,3 +4,4 @@ asset_id,asset_name,company,country,region,asset_type,product_type,project_stage
 3,Sal de Vida,Allkem,Argentina,South America,brine,carbonate,construction,carbonate,45000
 4,Greenbushes,Talison,Australia,Australia,hard_rock,spodumene,operating,hydroxide,185000
 5,Pilgangoora,Pilbara,Australia,Australia,hard_rock,spodumene,operating,hydroxide,95000
+6,Olaroz,Allkem,Argentina,South America,brine,carbonate,operating,carbonate,40000
