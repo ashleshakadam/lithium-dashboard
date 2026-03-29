@@ -1,0 +1,6 @@
+asset_id,asset_name,company,country,region,asset_type,product_type,project_stage,refined_product,capacity_t_lce
+1,Atacama (SQM),SQM,Chile,South America,brine,carbonate,operating,carbonate,180000
+2,Silver Peak,Albemarle,USA,North America,brine,carbonate,operating,carbonate,6000
+3,Sal de Vida,Allkem,Argentina,South America,brine,carbonate,construction,carbonate,45000
+4,Greenbushes,Talison,Australia,Australia,hard_rock,spodumene,operating,hydroxide,185000
+5,Pilgangoora,Pilbara,Australia,Australia,hard_rock,spodumene,operating,hydroxide,95000
