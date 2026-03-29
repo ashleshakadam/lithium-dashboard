@@ -55,7 +55,7 @@ This dashboard demonstrates that:
 	•	price_model.py
 
 #### Project Architecture
-
+```text
 lithium-dashboard/
 │
 ├── app/
@@ -197,7 +197,6 @@ Limitations
 	•	Static cost assumptions (no inflation curves)
 	•	No geopolitical disruption modeling
 
-⸻
 
 #### Future Enhancements
 	•	Add refining capacity layer
