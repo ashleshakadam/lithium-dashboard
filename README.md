@@ -77,7 +77,7 @@ lithium-dashboard/
 │   ├── supply_balance.csv
 │   ├── supply_summary.csv
 │   └── regional_concentration.csv
-
+```
 
 #### Methodology
 
