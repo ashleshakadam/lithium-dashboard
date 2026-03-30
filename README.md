@@ -19,8 +19,11 @@ It allows users to:
 - estimate marginal supply pressure
 - simulate pricing implications under different market scenarios
 
-## Demo
-Streamlit App URL: https://lithium-dashboard-hizexmjjqbfus8zpfrvmyy.streamlit.app/
+<img width="1367" height="796" alt="image" src="https://github.com/user-attachments/assets/54674f19-ad0b-4b2b-b49b-aa8af963575c" />
+<img width="1336" height="840" alt="image" src="https://github.com/user-attachments/assets/88218c18-66da-4e64-ab89-a2742ef24e60" />
+<img width="1336" height="758" alt="image" src="https://github.com/user-attachments/assets/0b409e62-5992-4530-a568-931ab55c05b5" />
+
+#### Streamlit App URL: https://lithium-dashboard-hizexmjjqbfus8zpfrvmyy.streamlit.app/
 
 ## Architecture
 The application is organized as a modular analytics system:
